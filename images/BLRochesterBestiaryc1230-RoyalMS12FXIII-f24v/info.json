@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 16,
+    "height" : 16
+  }, {
+    "width" : 32,
+    "height" : 31
+  }, {
+    "width" : 63,
+    "height" : 61
+  }, {
+    "width" : 125,
+    "height" : 121
+  }, {
+    "width" : 250,
+    "height" : 241
+  }, {
+    "width" : 500,
+    "height" : 481
+  } ],
+  "profile" : "level0",
+  "width" : 500,
+  "id" : "https://AngelaMD.github.io/FablesBestiaries/images/BLRochesterBestiaryc1230-RoyalMS12FXIII-f24v",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 481
+}
