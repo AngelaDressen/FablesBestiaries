@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 500,
+    "id" : "https://AngelaMD.github.io/FablesBestiaries/images/BLRochesterBestiaryc1230-RoyalMS12FXIII-f24v/canvas/",
+    "label" : {
+      "none" : [ "BLRochesterBestiaryc1230-RoyalMS12FXIII-f24v" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://AngelaMD.github.io/FablesBestiaries/images/BLRochesterBestiaryc1230-RoyalMS12FXIII-f24v/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://AngelaMD.github.io/FablesBestiaries/images/BLRochesterBestiaryc1230-RoyalMS12FXIII-f24v/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 16,
+              "height" : 16
+            }, {
+              "width" : 32,
+              "height" : 31
+            }, {
+              "width" : 63,
+              "height" : 61
+            }, {
+              "width" : 125,
+              "height" : 121
+            }, {
+              "width" : 250,
+              "height" : 241
+            }, {
+              "width" : 500,
+              "height" : 481
+            } ],
+            "profile" : "level0",
+            "width" : 500,
+            "id" : "https://AngelaMD.github.io/FablesBestiaries/images/BLRochesterBestiaryc1230-RoyalMS12FXIII-f24v",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 481
+          } ],
+          "format" : "image/jpeg",
+          "width" : 500,
+          "id" : "https://AngelaMD.github.io/FablesBestiaries/images/BLRochesterBestiaryc1230-RoyalMS12FXIII-f24v/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 481
+        },
+        "target" : "https://AngelaMD.github.io/FablesBestiaries/images/BLRochesterBestiaryc1230-RoyalMS12FXIII-f24v/canvas/"
+      } ]
+    } ],
+    "height" : 481
+  }, {
     "width" : 1600,
     "id" : "https://AngelaMD.github.io/FablesBestiaries/images/SirenCentaur1300Getty00552901/canvas/",
     "label" : {
